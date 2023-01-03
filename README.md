@@ -1,9 +1,8 @@
 ### Hi, I'm Haythem 👋
 
-<a href="https://twitter.com/haythem_s_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-"></a>
-<a href="https://www.linkedin.com/in/haythem96/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-"></a>
+<a href="https://twitter.com/haythem_s_" target="_blank"><img src="https://img.shields.io/twitter/follow/haythem_s_?label=%40HAYTHEM_S_&style=for-the-badge"></a>
+
+[![Haythem's GitHub stats](https://github-readme-stats.vercel.app/api?username=haythemsellami)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **haythemsellami/haythemsellami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
