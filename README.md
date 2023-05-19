@@ -7,7 +7,7 @@
 
 🔭 I’m a Senior Smart Contract Engineer at [Opyn](https://www.opyn.co/) working on designing and building secure and decentralized financial systems.
 
-🌱 I’m currently learning more about Layer 2 and scalibility solutions like optimistic rollups and zk-EVMs, digging deeper into the EVM architecture and trying to write some code in Rust 🦀.
+🌱 I’m currently learning more about Layer 2 and scalibility solutions like optimistic rollups and zk-EVMs, digging deeper into the infrastructure layer and trying to write some code in Rust 🦀.
 
 <!--
 **haythemsellami/haythemsellami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
